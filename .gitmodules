@@ -1,0 +1,3 @@
+[submodule "jeet-src"]
+	path = jeet-src
+	url = git@github.com:mojotech/jeet.git
